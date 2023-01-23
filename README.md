@@ -1,2 +1,2 @@
-# praktikum-algo
+# praktikum algoritma
 PRAKTIKUM ALGORITMA DAN STRUKTUR DATA
